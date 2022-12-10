@@ -1,8 +1,22 @@
 ---
 title: "About Me"
+image: images/swapnil_jm_picture.jpg
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/samanthacsik/
+    - text: Twitter
+      href: https://twitter.com/SamanthaCsik
+    - text: GitHub
+      href: https://github.com/samanthacsik
+    - text: Email
+      href: mailto:scsik@ucsb.edu
 ---
 
-This is a Quarto website.
+**This is a Quarto website.**
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
